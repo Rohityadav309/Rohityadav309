@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
+<h3 align="center">Backend Developer | Go | Clean Architecture Enthusiast</h3>
 
-<!--
-**Rohityadav309/Rohityadav309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Currently building scalable backend systems in Go
+- 📍 India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- Go
+- SQL
+- REST APIs
+- Git
+- Clean Architecture
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Orchestrator API
+Scalable backend system built using Go.
+- Middleware
+- Goroutines
+- Clean architecture
+- Validation
+
+---
+
+## 📈 GitHub Stats
+
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohityadav309&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohityadav309&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn:www.linkedin.com/in/
+rohit-yadav-903558250
+- Email: rohit.codesolution@gmail.com
